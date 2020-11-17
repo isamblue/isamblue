@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mi
+permalink: /sobre_mi/
 ---
 
-Some information about you!
+Hola!
 
-### More Information
+Soy Maria, adicta a la organización e interesada en el minimalismo y en tener un estilo de vida intencional
 
-A place to include any other types of information that you'd like to include about yourself.
+En este blog vas a encontrar artículos sobre diferentes temas así que espero disfrutes y sean útiles para ti
 
-### Contact me
+Muchas gracias por leerme. Si tienes algo que decirme no dudes ponerte en contacto conmigo.
 
-[email@domain.com](mailto:email@domain.com)
+Con mucho amor,
+
+Maria Cascabel
