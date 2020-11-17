@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /sobre_mi/
+permalink: /about/
 ---
 
 Hola!
